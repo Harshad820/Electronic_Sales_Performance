@@ -22,4 +22,4 @@ Sales performance varies by region, highlighting uneven market demand.
 The data shows that high-value products matter more than high-volume sales. While smartphones sell the most units, premium products like laptops and cameras bring in higher revenue. Sales are driven by a few strong performers and peak during certain months, suggesting seasonal trends and the importance of focused sales strategies. This dashboard turns raw data into insights that help understand what sells, who sells best, and when sales perform the strongest.
 
 ## Dashboard :
-![Electronic_Sales_Performance](https://github.com/Harshad820/property_price_analysis/blob/main/photo/microsoft-excel.png)
+![Electronic_Sales_Performance](https://github.com/Harshad820/Electronic_Sales_Performance/blob/main/Dashboard.png)
