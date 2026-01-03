@@ -9,6 +9,7 @@ The objective of this project is to transform raw sales data into actionable bus
 ## Tool used :
 
 <img src="https://github.com/Harshad/your_image.png" alt="Electronic_Sales_Performance" width="400" height="300">
+
 ## Result and Insights :
 
 Sales fluctuate across months, with clear peak and drop periods indicating seasonal demand.
