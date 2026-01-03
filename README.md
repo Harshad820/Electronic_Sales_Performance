@@ -8,7 +8,7 @@ The objective of this project is to transform raw sales data into actionable bus
 
 ## Tool used :
 
-<img src="https://github.com/Harshad/your_image.png" alt="Electronic_Sales_Performance" width="400" height="300">
+<img src="https://github.com/Harshad820/property_price_analysis/blob/main/photo/microsoft-excel.png" width="400" height="300">
 
 ## Result and Insights :
 
