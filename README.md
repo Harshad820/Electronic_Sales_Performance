@@ -1,5 +1,5 @@
 # Electronic_Sales_Performance
-<img src="https://img.freepik.com/premium-photo/gadgets-accessories-isolated-white-background_1272184-58.jpg " width="900" height="400">
+<img src="https://img.freepik.com/premium-photo/gadgets-accessories-isolated-white-background_1272184-58.jpg" width="900" height="400">
 ## Interactive Excel dashboard analyzing electronic sales performance across months, regions, products, and salespersons, delivering key business insights through data cleaning, KPIs, and visual analytics.
 
 ## Overview :
